@@ -1,6 +1,4 @@
 # Ford_Go_Bike_System_Data_Exploration
-## by Ping-Lun Yeh
-
 
 ## Dataset
 
